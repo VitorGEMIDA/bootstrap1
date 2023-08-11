@@ -1,0 +1,19 @@
+.bi  {
+    font-size: 70px;
+    margin-left: 25px;
+}
+.verde{
+    color: red;
+}
+
+.green{
+    color: green;
+    line-height: 1000px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+ 
+}
+
+.green:hover {
+    background-color: blue;
+}
